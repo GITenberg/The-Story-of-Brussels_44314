@@ -1,0 +1,40 @@
+_repo: The-Story-of-Brussels_44314
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gilliat-Smith, Guy
+    gutenberg_agent_id: '42690'
+    url: http://www.gutenberg.org/2009/agents/42690
+  - agent_name: Kimball, Katharine
+    aliases:
+    - Kimball, Katherine
+    - Kimball, K.
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '42689'
+    url: http://www.gutenberg.org/2009/agents/42689
+covers:
+- cover_type: archival
+  image_path: 44314-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gilliat-Smith, Ernest
+    gutenberg_agent_id: '42688'
+    url: http://www.gutenberg.org/2009/agents/42688
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44314'
+  lccn: 06016288
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcsh 'Brussels (Belgium)'
+- !lcc 'DH'
+title: The Story of Brussels
+url: http://www.gutenberg.org/ebooks/44314
