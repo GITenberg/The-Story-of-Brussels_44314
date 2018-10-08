@@ -38,5 +38,6 @@ series_note: Mediæval town series
 subjects:
 - !lcsh 'Brussels (Belgium)'
 - !lcc 'DH'
+- GITenberg
 title: The Story of Brussels
 url: http://www.gutenberg.org/ebooks/44314
